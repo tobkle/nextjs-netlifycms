@@ -2,7 +2,7 @@ export default {
     cms_manual_init: true,
     backend: {
         name: 'github',
-        repo: 'tobkle/nextjs-netlifycms-example',
+        repo: 'tobkle/nextjs-netlifycms',
         branch: 'main',
     },
     media_folder: 'public/img',
