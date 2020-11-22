@@ -4,6 +4,8 @@ export default {
         name: 'github',
         repo: 'tobkle/nextjs-netlifycms',
         branch: 'main',
+        base_url: 'https://nextjs-netlifycms.vercel.app',
+        auth_endpoint: 'api/auth',
     },
     media_folder: 'public/img',
     public_folder: 'img',
